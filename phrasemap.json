@@ -1,0 +1,27 @@
+{
+  "default": {
+    "voiceInfo": {
+      "lang": "en-US",
+      "speaker": "Linda"
+    },
+    "phrases": {
+      "hello": [
+        { "text": "Hello! " },
+        { "id": "name", "type": "dynamic" },
+        { "text": " you have a message!" }
+      ],
+      "message": [
+        { "id": "message", "type": "dynamic" },
+        { "text": ". Would you like to leave message for me?" }
+      ],
+      "listening": [{ "text": "I am listening" }],
+      "fine": [{ "text": "Fine, have a good day!" }]
+    },
+    "macros": {
+      "hello": {},
+      "message": {},
+      "listening": {},
+      "fine": {}
+    }
+  }
+}
