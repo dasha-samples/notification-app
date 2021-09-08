@@ -12,7 +12,7 @@
       ],
       "message": [
         { "id": "message", "type": "dynamic" },
-        { "text": ". Would you like to leave message for me?" }
+        { "text": ". Would you like to leave a message for me?" }
       ],
       "listening": [{ "text": "I am listening" }],
       "fine": [{ "text": "Fine, have a good day!" }]
